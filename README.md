@@ -1,4 +1,4 @@
-# Sleeping-Dogs-3D-MOD
+# Sleeping Dogs: Definitive Edition-3D-MOD
 
 Sleeping-Dogs-3D-MOD Patch
 
