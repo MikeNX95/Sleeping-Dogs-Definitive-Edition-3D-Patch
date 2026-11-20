@@ -2,9 +2,10 @@
 
 Sleeping-Dogs-3D-MOD Patch
 
-## Stereo 3D (`[Stereo3D]`)
 
 The mod takes the game's internal 3D SBS output and adds support for pretty much every 3D display format—Top and Bottom (tab and tab_reversed), Side-by-Side (sbs and sbs_reversed), interlaced (interlaced and interlaced_reversed), checkerboard (checkerboard and checkerboard_reversed), plus LeiaSR displays.
+
+DLSS Supported
 
 
 ### 📦 Installation
